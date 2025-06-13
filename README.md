@@ -15,5 +15,5 @@
         evtl. (weenn Browser bei Änderungen nicht automatisch neu lädt) Code ersetzen nach neuem Start von gulp
 
 3. Elemente
-    Für jedes Element in components eine neue php Datei erstellen und diese in die entsprechende components/elements/XX.php laden# setup_statisch
+    Für jedes Element in components eine neue php Datei erstellen und diese in die entsprechende components/elements/XX.php laden
 # setup_statisch
