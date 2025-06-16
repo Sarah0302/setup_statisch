@@ -1,0 +1,73 @@
+@use '../setup/variables.scss' as *;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+// // Text
+// h1 {
+//     font-family: $font-family-headline;
+//     font-size: 81px;
+//     line-height: 93px;
+// }
+
+// h2 {
+//     font-family: $font-family-headline;
+//     font-size: 32px;
+//     line-height: 37px;
+// }
+
+// h3 {
+//     font-family: $font-family-headline;
+//     font-size: 25px;
+//     line-height: 28px;
+// }
+
+// h4 {
+//     font-family: $font-family-text;
+//     font-weight: $font-weight-bold;
+//     font-size: 25px;
+//     line-height: 28px;
+// }
+
+// p, button, a {
+//     font-family: $font-family-text;
+//     font-size: 20px;
+//     line-height: 26px;
+// }
+
+// a {
+//     text-decoration: none;
+
+//     &:hover {
+//         cursor: pointer;
+//     }
+// }
+
+// @media only screen and (max-width: 1200px) {
+//     h1 {
+//         font-size: 48px;
+//         line-height: 55px;
+//     }
+
+//     h2 {
+//         font-size: 20px;
+//         line-height: 23px;
+//     }
+    
+//     h3 {
+//         font-size: 20px;
+//         line-height: 23px;
+//     }
+
+//     h4 {
+//         font-size: 20px;
+//         line-height: 23px;
+//     }
+
+//     p, button, a {
+//         font-size: 16px;
+//         line-height: 21px;
+//     }
+// }

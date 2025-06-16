@@ -1,3 +1,5 @@
+# setup_statisch
+
 1. Terminal (git muss instaliert sein)
     npm install node
     npm install gulp
@@ -16,4 +18,3 @@
 
 3. Elemente
     Für jedes Element in components eine neue php Datei erstellen und diese in die entsprechende components/elements/XX.php laden
-# setup_statisch
